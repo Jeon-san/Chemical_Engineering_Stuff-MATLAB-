@@ -8,3 +8,7 @@ Things to note:
 2) NRTL.m is the Themodynamical Model that predicts composition given a temperature and pressure (It uses Raoult's Law to find an initial approximate solution to converge)
 
 3) Could be optimized furthur by changing the solver to non-symbolic!
+
+How it works:
+
+Key in parameters for distillation column ---> Get distillation column temperature and concentration profile!
